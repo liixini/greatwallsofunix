@@ -1,6 +1,6 @@
 A collection of walls.
 
-I do not mean to steal credit from anyone and am very grateful for the wallpapers sourced in large parts from the following directoriess:
+I do not mean to steal credit from anyone and am very grateful for the wallpapers sourced in large parts from the following directories:
 
 https://github.com/xZepyx/WallBank
 
